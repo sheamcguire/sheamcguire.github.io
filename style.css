@@ -41,3 +41,9 @@ body.media {
     left: 50px;
     top: 100px;
 }
+header.sticky {
+    position:sticky;
+    top: 0;
+    padding: 3px;
+    background-color: lightblue;
+}
