@@ -17,5 +17,5 @@ details > summary {
     color:red!important;
 }
 body.pseudo:hover {
-    font-size: large;
+    color:red;
 }
