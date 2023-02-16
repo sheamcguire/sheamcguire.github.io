@@ -16,6 +16,6 @@ div li {
 details > summary {
     color:red!important;
 }
-body.pseudo:hover {
+a.pseudo:hover {
     color:red;
 }
