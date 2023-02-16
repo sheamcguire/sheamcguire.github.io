@@ -26,6 +26,6 @@ div.media {
 div.nested {
     border: 5px outset blue
 }
-footer:hover {
+footer.index:hover {
     color:red
 }
