@@ -19,3 +19,10 @@ details > summary {
 p.pseudo:hover {
     color:red;
 }
+div.media {
+    border: 5px outset pink;
+    text-align: center;
+}
+div.nested {
+    border: 5px outset blue
+}
