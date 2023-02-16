@@ -1,0 +1,18 @@
+header {
+    color:darkorchid;
+}
+ul {
+    color:red;
+}
+ol {
+    color:blue;
+}
+summary,p,footer {
+    color:darkgray;
+}
+div li {
+    font-size:medium;  
+}
+details > summary {
+    color:red!important;
+}
