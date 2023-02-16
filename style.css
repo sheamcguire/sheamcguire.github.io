@@ -29,3 +29,10 @@ div.nested {
 footer.index:hover {
     color:red
 }
+body.box {
+    background-color: aqua;
+    margin:20px;
+    padding:10px;
+    border:3px dashed blue;
+    width:500px;
+}
