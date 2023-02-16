@@ -17,5 +17,5 @@ details > summary {
     color:red!important;
 }
 body.psuedo:hover {
-    font-size: larger;
+    font-size: large;
 }
