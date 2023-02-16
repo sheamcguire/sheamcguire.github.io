@@ -36,3 +36,8 @@ body.box {
     border:3px dashed blue;
     width:500px;
 }
+body.media {
+    position:absolute;
+    left: 50px;
+    top: 100px;
+}
