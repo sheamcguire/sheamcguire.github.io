@@ -16,6 +16,6 @@ div li {
 details > summary {
     color:red!important;
 }
-body.psuedo:hover {
+body.pseudo:hover {
     font-size: large;
 }
