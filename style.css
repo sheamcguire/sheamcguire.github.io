@@ -1,8 +1,24 @@
 /* Films Page */
 
-span.video1 {
-    display: inline-block;
+p.video1 {
+    position: relative;
+    margin: 130px 270px;
+    width: 40%;
+    font-size: 25px;
+    text-align: center;
+    float: right;
+    border: 3px dotted #FFD166;
 }
+
+iframe.video1 {
+    position: relative;
+    top: 100px;
+    left: 300px;
+    padding: 5px;
+    background-color: #26547C;
+}
+
+
 body.film {
     background-image: url(website-background2.png);
     background-repeat: no-repeat;
@@ -33,32 +49,33 @@ h2.title {
 
 p.home {
     position: relative;
-    top: 50px;
-    right: 200px;
+    margin: 100px 300px;
     width: 40%;
-    float: right;
-    font-size: 20px;
+    font-size: 25px;
     border: 3px dotted #FFD166;
     text-align: center;
+    float: right;
 }
 
 img.home {
     position: relative;
-    top: 50px;
-    left: 200px;
+    top: 100px;
+    left: 300px;
     width: 25%;
     border: 3px dotted #FFD166;
 }
 
+
 div.home {
     text-align: center;
     position: relative;
-    top: 40px;
+    top: 70px;
     color: #333;
     background-color: #FFD166;
     border-radius: 25px;
-    width: 60%;
+    width: 50%;
     margin: auto;
+    padding: 5px;
 }
 
 h1.home {
