@@ -1,11 +1,13 @@
+/* Equipment Page */
+
+
 /* Films Page */
 
 p.video1 {
     position: relative;
-    margin: 130px 270px;
+    margin: 120px 270px 0px 0px;
     width: 40%;
     font-size: 25px;
-    text-align: center;
     float: right;
     border: 3px dotted #FFD166;
 }
@@ -18,6 +20,57 @@ iframe.video1 {
     background-color: #26547C;
 }
 
+p.video2 {
+    position: relative;
+    margin: 120px 270px 0px 0px;
+    width: 40%;
+    font-size: 25px;
+    float: right;
+    border: 3px dotted #FFD166;
+    clear:both;
+}
+
+iframe.video2 {
+    position: relative;
+    top: 100px;
+    left: 300px;
+    padding: 5px;
+    background-color: #26547C;
+}
+
+p.video3 {
+    position: relative;
+    margin: 120px 270px 0px 0px;
+    width: 40%;
+    font-size: 25px;
+    float: right;
+    border: 3px dotted #FFD166;
+}
+
+iframe.video3 {
+    position: relative;
+    top: 100px;
+    left: 300px;
+    padding: 5px;
+    background-color: #26547C;
+}
+
+p.video4 {
+    position: relative;
+    margin: 120px 270px 0px 0px;
+    width: 40%;
+    font-size: 25px;
+    float: right;
+    border: 3px dotted #FFD166;
+}
+
+iframe.video4 {
+    position: relative;
+    top: 100px;
+    left: 300px;
+    padding: 5px;
+    background-color: #26547C;
+}
 
 body.film {
     background-image: url(website-background2.png);
