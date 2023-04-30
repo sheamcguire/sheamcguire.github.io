@@ -1,3 +1,41 @@
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #AAC;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li.navbar {
+    float: left;
+    border-right: 1px solid #FFF;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li.navbar a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.navbar a:hover {
+    background-color: #DD0;
+}
+
+a.active {
+    background-color: #ff0
+}
+
+
+/*
 ul,ol{
     color:red;
 }
