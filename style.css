@@ -1,5 +1,8 @@
 /* Films Page */
 
+span.video1 {
+    display: inline-block;
+}
 body.film {
     background-image: url(website-background2.png);
     background-repeat: no-repeat;
@@ -25,6 +28,7 @@ h1.title {
 h2.title {
     font-size: 40px;
 }
+
 /* Home Page */
 
 p.home {
