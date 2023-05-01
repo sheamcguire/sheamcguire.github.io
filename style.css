@@ -1,5 +1,109 @@
+/* Contact Page */
+
+
 /* Equipment Page */
 
+img.obs {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border: 5px solid #26547C;
+    border-radius: 10px;
+}
+
+p.obs {
+    font-size: 25px;
+}
+
+div.obs {
+    width:60%;
+    position: relative;
+    top: 70px;
+    margin:auto;
+    padding: 10px;
+}
+
+img.creative {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border: 5px solid #26547C;
+    border-radius: 10px;
+}
+
+p.creative {
+    font-size: 25px;
+}
+
+div.creative {
+    width:60%;
+    position: relative;
+    top: 70px;
+    margin:auto;
+    padding: 10px;
+}
+
+img.computer {
+    width: 500px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border: 5px solid #26547C;
+    border-radius: 10px;
+}
+
+p.computer {
+    font-size: 25px;
+}
+
+div.computer {
+    width:60%;
+    position: relative;
+    top: 70px;
+    margin:auto;
+    padding: 10px;
+}
+
+img.camera {
+    width: 500px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border: 5px solid #26547C;
+    border-radius: 10px;
+}
+
+p.camera {
+    font-size: 25px;
+}
+
+div.camera {
+    width:60%;
+    position: relative;
+    top: 70px;
+    margin:auto;
+    padding: 10px;
+}
+
+body.equipment {
+    background-image: url(website-background1.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h2.equip {
+    font-size: 40px;
+}
+
+h1.equip {
+    font-size: 60px;
+}
 
 /* Films Page */
 
