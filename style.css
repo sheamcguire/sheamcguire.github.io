@@ -1,5 +1,57 @@
 /* Contact Page */
 
+div.socials {
+    position: relative;
+    top: 100px;
+    left: 300px;
+    font-size: 40px;
+    text-align: center;
+    margin: 100px;
+    width: 20%;
+    color: #333;
+    border: 3px dotted #FFD166;
+}
+
+ul.links {
+    position: relative;
+    bottom: 150px;
+    right: 30%;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li.links {
+    float: right;
+    padding: 20px;
+}
+
+div.contact {
+    position: relative;
+    top: 100px;
+    left: 300px;
+    font-size: 40px;
+    text-align: center;
+    margin: 100px;
+    width: 20%;
+    color: #333;
+    border: 3px dotted #FFD166;
+}
+
+p.email {
+    position: relative;
+    top: 70px;
+    right: 200px;
+    margin: 100px;
+    font-size: 45px;
+    float: right;
+}
+
+body.contact {
+    background-image: url(website-background2.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
 
 /* Equipment Page */
 
